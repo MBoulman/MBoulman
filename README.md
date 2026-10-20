@@ -27,7 +27,7 @@ I still have a lot to learn, and that is exactly what motivates me. I like worki
 | **ETSIIVIAJES** | Desktop app for a diving and ski travel agency: clients, inventory, bookings, world map of destinations and ML analytics. | Python · Tkinter · SQLite · scikit-learn |
 | **Numerical methods, from roots to patterns** | Root finding, linear and non-linear systems, interpolation, integral equations and Turing patterns by reaction–diffusion. | Python · NumPy |
 
-➡️ The full portfolio, with 29 projects and articles, is coming soon on my website.
+➡️ The full portfolio, with 29 projects and articles, is on my website: **[mboulman.com](https://mboulman.com)**
 
 ### Tools
 
@@ -77,6 +77,6 @@ Sé que todavía me queda mucho por aprender, y eso es precisamente lo que me mo
 - **ETSIIVIAJES:** aplicación de escritorio en Python para una agencia de viajes, con base de datos y analítica con machine learning.
 - **Métodos numéricos, de la raíz al patrón:** cuatro prácticas resueltas en Python, hasta los patrones de Turing.
 
-➡️ El portafolio completo, con 29 proyectos y artículos, estará pronto en mi web.
+➡️ El portafolio completo, con 29 proyectos y artículos, está en mi web: **[mboulman.com](https://mboulman.com)**
 
 </details>
