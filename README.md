@@ -22,12 +22,13 @@ I still have a lot to learn, and that is exactly what motivates me. I like worki
 |---|---|---|
 | **Steel–copper bimetallic joint** | Thermo-elastic FE analysis of a copper bar in a steel support: thermal stresses, submodel of the critical zone and mesh convergence study. | ANSYS Workbench |
 | **High-efficiency Organic Rankine Cycle** | Energy and exergy analysis of a transcritical ORC with R245fa and a regenerator, recovering heat from exhaust gases at 220 °C. | EES |
+| **[Turbo diesel engine on a test bench](https://github.com/MBoulman/Motor-diesel-banco-pruebas)** | Processing of test-bench data from a turbocharged diesel engine: performance, efficiencies and full energy balance from 29 logged channels. | MATLAB |
 | **Slider-crank mechanism in MATLAB** | GUI app that solves the full kinematics (position, velocity, acceleration) with animation, tables and Excel export. | MATLAB |
 | **Siemens S7-1200 PLC programming** | Ladder program controlling two pneumatic cylinders, with cycle counter, timer and sequence selector, tested on the real lab panel. | TIA Portal |
 | **ETSIIVIAJES** | Desktop app for a diving and ski travel agency: clients, inventory, bookings, world map of destinations and ML analytics. | Python · Tkinter · SQLite · scikit-learn |
 | **Numerical methods, from roots to patterns** | Root finding, linear and non-linear systems, interpolation, integral equations and Turing patterns by reaction–diffusion. | Python · NumPy |
 
-➡️ The full portfolio, with 29 projects and articles, is on my website: **[mboulman.com](https://mboulman.com)**
+➡️ The full portfolio, with 30 projects and articles, is on my website: **[mboulman.com](https://mboulman.com)**
 
 ### Tools
 
@@ -72,11 +73,12 @@ Sé que todavía me queda mucho por aprender, y eso es precisamente lo que me mo
 
 - **Unión bimetálica acero–cobre:** análisis termo-elástico en ANSYS con submodelo y estudio de convergencia de malla.
 - **Ciclo Rankine orgánico de alta eficiencia:** análisis energético y exergético de un ORC transcrítico con R245fa y regenerador (EES).
+- **[Ensayo de un motor diésel turbo en banco de pruebas](https://github.com/MBoulman/Motor-diesel-banco-pruebas):** prestaciones, rendimientos y balance energético a partir de los datos del banco (MATLAB).
 - **Mecanismo biela-manivela en MATLAB:** aplicación con interfaz gráfica que resuelve la cinemática completa.
 - **Programación de un PLC Siemens S7-1200:** programa en Ladder con TIA Portal, probado en el panel real del laboratorio.
 - **ETSIIVIAJES:** aplicación de escritorio en Python para una agencia de viajes, con base de datos y analítica con machine learning.
 - **Métodos numéricos, de la raíz al patrón:** cuatro prácticas resueltas en Python, hasta los patrones de Turing.
 
-➡️ El portafolio completo, con 29 proyectos y artículos, está en mi web: **[mboulman.com](https://mboulman.com)**
+➡️ El portafolio completo, con 30 proyectos y artículos, está en mi web: **[mboulman.com](https://mboulman.com)**
 
 </details>
